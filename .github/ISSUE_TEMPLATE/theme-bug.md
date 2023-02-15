@@ -11,7 +11,7 @@ assignees: ''
 - :white_large_square:
 <!-- To tick the box, replace :white_large_square: above with :white_check_mark: -->
 <hr/>
-<b>Describe the bug here, in detail.</b>
+<b>Describe the bug here, in detail, with an explanation of how you produced it.</b>
 <br/>
 <!-- Replace this line with your explanation. -->
 <hr/>
