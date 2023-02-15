@@ -215,7 +215,7 @@ t[#t+1] = Def.ActorFrame {
 
 
 local scrollerX = 99 / 1920 * SCREEN_WIDTH
-local scrollerY = 440 / 1920 * SCREEN_HEIGHT + 128
+local scrollerY = 440 / 1920 * SCREEN_HEIGHT + 90
 local selectorHeight = 70 / 1080 * SCREEN_HEIGHT
 local selectorWidth = 574 / 1920 * SCREEN_WIDTH
 local choiceTable = strsplit(THEME:GetMetric("ScreenTitleMenu", "ChoiceNames"), ",")
